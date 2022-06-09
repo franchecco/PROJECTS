@@ -1,4 +1,4 @@
-# This is the PROJECTS to do this summer 2022 -->
+# This is the PROJECTS to do this summer 2022<!-- omit in toc -->
 
 ---
 
