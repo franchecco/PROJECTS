@@ -5,7 +5,7 @@
 ## 🔠 Indice<!-- omit in toc -->
 
 - [❓ Descrizione](#-descrizione)
-- [🔀 Operazioni e spiegazione del programma](#-operazioni-e-spiegazione-del-programma)
+- [🔀 Quali sono i progetti](#-operazioni-e-spiegazione-del-programma)
   - [🌆 SVG](#-svg)
   - [💬 CSV](#-csv)
 - [💬 Supporto](#-supporto)
@@ -15,11 +15,11 @@
 
 ## ❓ Descrizione
 
-**_Questo programma ha il compito di creare un file `.SVG` ([Immagine Vettoriale](https://it.wikipedia.org/wiki/Grafica_vettoriale#:~:text=L'immagine%20vettoriale%20%C3%A8%20una,attribuiti%20colori%20e%20anche%20sfumature.)) raffigurante un tweet, a partire dal ID del tweet in che si vuole trovare._**
+**_This is the projects that what I want to do this summer._**
 
-- Un esempio di input preso da questo [tweet](https://twitter.com/elonmusk/status/1521807738317066240):
+- The languages are:
 
-  > L'ID che si ricava dall URL del tweet `(twitter.com/elonmusk/status/`<span style="color:lightblue">1521807738317066240</span>`)` è questo:  
+  >[Python](#python)
   > **<span style="color:lightblue">1521807738317066240</span>**
 - L'output invece sarà simile a questo:
 
@@ -27,7 +27,7 @@
 
 ---
 
-## 🔀 Operazioni e spiegazione del programma
+## 🔀 Python
 
 <br>
 
