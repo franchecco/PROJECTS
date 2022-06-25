@@ -19,7 +19,7 @@
 
 - The languages are:
 
-  >[Python](#python)
+  >[Python](#-python)
   > **<span style="color:lightblue">1521807738317066240</span>**
 - L'output invece sarà simile a questo:
 
